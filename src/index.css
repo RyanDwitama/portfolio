@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+small {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 8px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+h2 {
+    line-height: 30px;
+}
+
+body {
+    background-color: black;
+}
